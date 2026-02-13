@@ -1,0 +1,33 @@
+name: l2_proj_javier_242319x
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.1.14
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+   - images/Mcdonald.png
+   - images/bigmac.png
+   - images/mcnuggets.png
+   - images/liho.png
+   - images/milktea.jpeg
+   - images/coconutshake.jpg
+   - images/pastamania.jpeg
+   - images/creamypasta.jpeg
+   - images/carbonara.jpeg
+   - images/4fingers.png
+   - images/crispychicken.jpeg
+   - images/chicknseafood.jpeg
